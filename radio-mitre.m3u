@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTM3U
 addStreamURL https://buecrplb01.cienradios.com.ar/Mitre790.aac 
-#EXTINF:-1,Descripción de la radio (opcional)
-https://localhost/img/mitre-720.png
+#EXTINF:-1,DescripciÃ³n de la radio (opcional)
+https://mitv4k.github.io/mitre-720.png
 
 
 
