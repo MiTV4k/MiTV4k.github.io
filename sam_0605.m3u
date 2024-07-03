@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF: tvg-name="C30" tvg-logo="https://avatars.githubusercontent.com/u/174262255?v=4" group-title="2024 LOCAL",C30 JUJUY
+#EXTINF:-1 xui-id="10" tvg-id=""  tvg-name="MiTV Pelis" tvg-logo="http://mitv4k.github.ip/mitv4k_logo.png" group-title="2024 LOCAL",C30 JUJUY
 https://vd01.streaminghd.net.ar:3291/live/sedconcomlive.m3u8
 #EXTINF:-1 xui-id="592" tvg-id="" tvg-name="EVENTOS PS 1" tvg-logo="http://185.192.124.243:80/images/f3c3544602b9e55990975904ac51ea9a.png" group-title="Futbol Argentino",EVENTOS PS 1
 http://185.192.124.243:80/play/84RYf9mZ1dUrxZuA32jRZM9JymyvhxJwmjfgtM_ya7g/ts
