@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:1,MiTV-Variedades
+#EXTVLCOPT:network-caching=1000
+https://vd01.streaminghd.net.ar:3291/live/sedconcomlive.m3u8
